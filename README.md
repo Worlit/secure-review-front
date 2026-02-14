@@ -35,8 +35,8 @@ Vite.
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/IPodymov/secure-revie-front.git
-   cd secure-revie-front
+   git clone https://github.com/Worlit/secure-review-front.git
+   cd secure-review-front
    ```
 
 2. **Установите зависимости:**
