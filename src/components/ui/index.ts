@@ -1,0 +1,8 @@
+export { default as BaseButton } from './BaseButton/BaseButton.vue'
+export { default as BaseInput } from './BaseInput/BaseInput.vue'
+export { default as BaseTextarea } from './BaseTextarea/BaseTextarea.vue'
+export { default as BaseCard } from './BaseCard/BaseCard.vue'
+export { default as BaseSelect } from './BaseSelect/BaseSelect.vue'
+export { default as BaseBadge } from './BaseBadge/BaseBadge.vue'
+export { default as BaseAlert } from './BaseAlert/BaseAlert.vue'
+export { default as BaseLoader } from './BaseLoader/BaseLoader.vue'

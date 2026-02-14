@@ -1,0 +1,43 @@
+.auth-layout {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  background: linear-gradient(135deg, var(--color-bg) 0%, var(--color-bg-secondary) 100%);
+}
+
+.auth-layout__container {
+  width: 100%;
+  max-width: 420px;
+}
+
+.auth-layout__header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.auth-layout__logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 72px;
+  height: 72px;
+  background-color: var(--color-primary);
+  color: white;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
+
+.auth-layout__title {
+  margin: 0 0 0.5rem;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.auth-layout__subtitle {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+}
